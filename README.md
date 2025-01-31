@@ -1,55 +1,79 @@
-<h2 align="left">Hi there, I'm Duaa Ahmed! 👋<br><br>🎓 Decision-Making Student | 🤖 AI & Machine Learning Enthusiast<br>🚀 Passionate about leveraging AI for smarter decision-making.<br>🔍 Looking for internship opportunities in AI, ML, and decision-making systems.<br><br>About Me:<br>📚 Currently studying Decision-Making with a strong focus on AI & Machine Learning.<br>🔧 Interested in building intelligent decision support systems using AI.<br>🌟 Passionate about optimization, predictive modeling, and automation.<br>📖 Constantly learning and exploring reinforcement learning, game theory, and AI-driven analytics.<br><br>Tech Stack:<br>💻 Programming: Python, R<br>🤖 ML & AI: TensorFlow, PyTorch, Scikit-Learn<br>🧠 Decision-Making Models: Reinforcement Learning, Bayesian Networks, Optimization Algorithms<br>📊 Data Analysis: Pandas, NumPy, Matplotlib, Seaborn<br>🗄️ Databases: SQL, MongoDB<br>🛠️ Development Tools: Jupyter Notebook, Google Colab, Git<br><br>🎯 Excited to collaborate and learn more about AI-powered decision-making! 🚀</h2>
+<h2 align="left">Hi there, I'm Duaa Ahmed! 👋</h2>
 
-###
+<p align="left">
+  🎓 <strong>Decision-Making Student</strong> | 🤖 <strong>AI & Machine Learning Enthusiast</strong><br>
+  🚀 Passionate about leveraging AI for smarter decision-making.<br>
+  🔍 Open to internship opportunities in AI, ML, and decision-making systems.
+</p>
 
+---
+
+### 🔹 About Me
+- 📚 Currently studying **Decision-Making** with a strong focus on **AI & Machine Learning**.
+- 🔧 Passionate about building **intelligent decision support systems** using AI.
+- 🌟 Interested in **optimization, predictive modeling, and automation**.
+- 📖 Exploring **Reinforcement Learning, Game Theory, and AI-driven Analytics**.
+
+---
+
+### 🛠 Tech Stack
+#### 💻 Programming:
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)
+
+#### 🤖 AI & Machine Learning:
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+
+#### 🧠 Decision-Making Models:
+- **Reinforcement Learning**
+- **Bayesian Networks**
+- **Optimization Algorithms**
+
+#### 📊 Data Analysis:
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square&logo=python)
+![Seaborn](https://img.shields.io/badge/-Seaborn-007FFF?style=flat-square)
+
+#### 🗄 Databases:
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+
+#### 🛠 Development Tools:
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter)
+![Google Colab](https://img.shields.io/badge/-Google%20Colab-F9AB00?style=flat-square&logo=googlecolab)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+
+---
+
+### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DuaaAhmedd&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DuaaAhmedd&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=DuaaAhmedd&show_icons=true&theme=dracula&hide_border=false" height="160" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DuaaAhmedd&layout=compact&langs_count=5&theme=dracula&hide_border=false" height="160" alt="Top Languages" />
 </div>
 
-###
+---
 
+### 🛠 Tech Tools & Platforms
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="30" alt="fastapi logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="30" alt="flask logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="30" alt="gitlab logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="30" alt="kaggle logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg" height="30" alt="opengl logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="30" alt="pycharm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" alt="pytorch logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="tensorflow logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="R" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="TensorFlow" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="PyTorch" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="Jupyter" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="NumPy" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="SQLite" />
 </div>
 
-###
+---
 
-<div align="left">
-</div>
-
-###
-
+### 🔥 Profile Views
 <div align="center">
-  <img src="https://profile-counter.glitch.me/DuaaAhmedd/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/DuaaAhmedd/count.svg?" alt="Profile Views" />
 </div>
-
-###
