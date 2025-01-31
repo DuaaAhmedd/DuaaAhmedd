@@ -12,34 +12,22 @@
 - 📚 Currently studying **Decision-Making** with a strong focus on **AI & Machine Learning**.
 - 🔧 Passionate about building **intelligent decision support systems** using AI.
 - 🌟 Interested in **optimization, predictive modeling, and automation**.
-- 📖 Exploring **Reinforcement Learning, Game Theory, and AI-driven Analytics**.
 
 ---
 
 ### 🛠 Tech Stack
 #### 💻 Programming:
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)
 
 #### 🤖 AI & Machine Learning:
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-
-#### 🧠 Decision-Making Models:
-- **Reinforcement Learning**
-- **Bayesian Networks**
-- **Optimization Algorithms**
 
 #### 📊 Data Analysis:
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square&logo=python)
 ![Seaborn](https://img.shields.io/badge/-Seaborn-007FFF?style=flat-square)
-
-#### 🗄 Databases:
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 
 #### 🛠 Development Tools:
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter)
